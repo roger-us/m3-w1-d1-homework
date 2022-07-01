@@ -1,0 +1,11 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node HTTP Module",
+  "main": "server_task1.js",
+  "scripts": {
+    "test": "git repository, keywords"
+  },
+  "author": "roger-us",
+  "license": "ISC"
+}
